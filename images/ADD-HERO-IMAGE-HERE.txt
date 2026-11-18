@@ -1,0 +1,1 @@
+Place your hero background photo in this folder and name it hero.jpg. The website will use images/hero.jpg automatically. Optional: add an about-section photo named about.jpg.
